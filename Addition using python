@@ -3,3 +3,4 @@ y=input("enter the no2=")
 print(x)
 print(y)
 z=x+y
+print("the sum of  and y is=",z)
