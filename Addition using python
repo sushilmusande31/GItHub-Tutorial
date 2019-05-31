@@ -1,0 +1,5 @@
+x=input("enter the no ")
+y=input("enter the no2=")
+print(x)
+print(y)
+z=x+y
