@@ -1,0 +1,4 @@
+x=int(input("enter the two no="))
+y=int(input("enter the 2nd no=")
+sum=x+y
+sub=x-y
