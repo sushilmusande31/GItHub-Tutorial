@@ -6,5 +6,4 @@ sum=x+y
 print("summy=",sum)
 sub=x-y
 print("subby=",sub)
-div=x/y
-print("The divis=",div)
+
